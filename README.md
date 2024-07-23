@@ -12,17 +12,24 @@ CyberSafeU is a comprehensive cybersecurity education platform designed for TARU
 - <b>Javascript</b>
 - <b>Bootstrap</b>
 
-<h2>Environments Used</h2>
-
-- <b>Windows 10</b> (21H2)
-
 <h2>System Screenshots:</h2>
+
+
+
+<p align="center">
+CyberSafeU Home Page <br/>
+ <br/>
+ <p align="center">
+<img src="https://imgur.com/vuBLWff.png" height="80%" width="80%" alt="Change mod of shell script"/>
+<br />
+<br />
+
 
 <p align="center">
 Admin Dashboard <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Admin Dashboard"/>
+<img src="https://i.imgur.com/vDrxvWo.png" height="80%" width="80%" alt="Admin Dashboard"/>
 <br />
 <br />
 
@@ -30,7 +37,7 @@ Admin Dashboard <br/>
 Course Module Index <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Course Module Index"/>
+<img src="https://i.imgur.com/q0NBFhM.png" height="80%" width="80%" alt="Course Module Index"/>
 <br />
 <br />
 
@@ -38,7 +45,7 @@ Course Module Index <br/>
 Course Module Create Step 1 <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Course Module Create Step 1"/>
+<img src="https://i.imgur.com/W6lrika.png" height="80%" width="80%" alt="Course Module Create Step 1"/>
 <br />
 <br />
 
@@ -46,15 +53,15 @@ Course Module Create Step 1 <br/>
 Course Module Create Step 2 Overall <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Course Module Create Step 2 Overall"/>
+<img src="https://i.imgur.com/jbQSpPB.png" height="80%" width="80%" alt="Course Module Create Step 2 Overall"/>
 <br />
 <br />
 
 <p align="center">
-Course Module Create Step 2 Assessment Management <br/>
+Course Module Create Step 2 Assessment (Add Question) <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Course Module Create Step 2 Assessment Management"/>
+<img src="https://i.imgur.com/bB9DPgo.png" height="80%" width="80%" alt="Course Module Create Step 2 Assessment Management"/>
 <br />
 <br />
 
@@ -62,7 +69,7 @@ Course Module Create Step 2 Assessment Management <br/>
 Course Module Create Step 2 Question Review <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Course Module Create Step 2 Question Review"/>
+<img src="https://i.imgur.com/ZYJvsUT.png" height="80%" width="80%" alt="Course Module Create Step 2 Question Review"/>
 <br />
 <br />
 
@@ -70,7 +77,7 @@ Course Module Create Step 2 Question Review <br/>
 Course Module Create Step 3 Final Review <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Course Module Create Step 3 Final Review"/>
+<img src="https://i.imgur.com/NDqe0P5.png" height="80%" width="80%" alt="Course Module Create Step 3 Final Review"/>
 <br />
 <br />
 
@@ -78,7 +85,7 @@ Course Module Create Step 3 Final Review <br/>
 Content Update Module <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Content Update Module"/>
+<img src="https://i.imgur.com/pUD8aNF.png" height="80%" width="80%" alt="Content Update Module"/>
 <br />
 <br />
 
@@ -86,7 +93,7 @@ Content Update Module <br/>
 Announcement Module <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Announcement Module"/>
+<img src="https://i.imgur.com/JSPLFTW.png" height="80%" width="80%" alt="Announcement Module"/>
 <br />
 <br />
 
@@ -94,7 +101,7 @@ Announcement Module <br/>
 Help and Support Module <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Help and Support Module"/>
+<img src="https://i.imgur.com/mYVRxEG.png" height="80%" width="80%" alt="Help and Support Module"/>
 <br />
 <br />
 
@@ -102,7 +109,7 @@ Help and Support Module <br/>
 Instructor Module <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="Instructor Module"/>
+<img src="https://i.imgur.com/qONlMHf.png" height="80%" width="80%" alt="Instructor Module"/>
 <br />
 <br />
 
@@ -110,7 +117,7 @@ Instructor Module <br/>
 User Management Module <br/>
  <br/>
  <p align="center">
-<img src="" height="80%" width="80%" alt="User Management Module"/>
+<img src="https://i.imgur.com/kleWYcO.png" height="80%" width="80%" alt="User Management Module"/>
 <br />
 <br />
 
