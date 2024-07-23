@@ -121,4 +121,22 @@ User Management Module <br/>
 <br />
 <br />
 
+<p align="center">
+Course Preview (Front End) <br/>
+ <br/>
+ <p align="center">
+<img src="https://i.imgur.com/XFdRf3e.png" height="80%" width="80%" alt="User Management Module"/>
+<br />
+<br />
+
+<p align="center">
+Course Assessment (Front End) <br/>
+ <br/>
+ <p align="center">
+<img src="https://i.imgur.com/pGIytL2.png" height="80%" width="80%" alt="User Management Module"/>
+<br />
+<br />
+
+
+
 <p>That's all for this project, thanks for reading this far.</p>
