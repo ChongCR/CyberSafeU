@@ -1,0 +1,43 @@
+﻿body {
+    .footerlinks;
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+    color: #ffd800;
+}
+
+#footer1 {
+    background: #000000;
+    min-height: 30px;
+}
+
+#footer2 {
+   
+    min-height: 30px;
+    background: PapayaWhip;
+}
+
+
+.box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 27.5rem);
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.box-container .box {
+        background-color: var(--white);
+        border-radius: .5rem;
+        padding: 2rem;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
