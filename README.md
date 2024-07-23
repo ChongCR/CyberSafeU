@@ -125,7 +125,7 @@ User Management Module <br/>
 Course Preview (Front End) <br/>
  <br/>
  <p align="center">
-<img src="https://i.imgur.com/XFdRf3e.png" height="80%" width="80%" alt="User Management Module"/>
+<img src="https://i.imgur.com/XFdRf3e.png" height="80%" width="80%" alt="Course Preview"/>
 <br />
 <br />
 
@@ -133,10 +133,42 @@ Course Preview (Front End) <br/>
 Course Assessment (Front End) <br/>
  <br/>
  <p align="center">
-<img src="https://i.imgur.com/pGIytL2.png" height="80%" width="80%" alt="User Management Module"/>
+<img src="https://i.imgur.com/pGIytL2.png" height="80%" width="80%" alt="Course Assessment"/>
 <br />
 <br />
 
+<p align="center">
+User Login Module (Step 1) <br/>
+ <br/>
+ <p align="center">
+<img src="https://i.imgur.com/pGIytL2.png" height="80%" width="80%" alt="User Login Module step 1 "/>
+<br />
+<br />
+
+<p align="center">
+User Login Module (Step 2) <br/>
+ <br/>
+ <p align="center">
+<img src="https://i.imgur.com/EK09Tpv.png" height="80%" width="80%" alt="User Login Module Step 2"/>
+<br />
+<br />
+
+<p align="center">
+User Login Module (Step 3) <br/>
+ <br/>
+ <p align="center">
+<img src="https://i.imgur.com/RoQLzmp.png" height="80%" width="80%" alt="User Login Module Step 3"/>
+<br />
+<br />
+
+
+<p align="center">
+Verfirication Code Email Preview<br/>
+ <br/>
+ <p align="center">
+<img src="https://i.imgur.com/zcJfmaD.png" height="80%" width="80%" alt="Email Preview"/>
+<br />
+<br />
 
 
 <p>That's all for this project, thanks for reading this far.</p>
